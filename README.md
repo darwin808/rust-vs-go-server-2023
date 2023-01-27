@@ -54,3 +54,8 @@ node src/index.js
 ```bash
 wrk -c 10000 -d 60 -t 4 http://localhost:3000
 ```
+-Result 
+
+![image](https://user-images.githubusercontent.com/71545960/215147391-30225d36-c05c-424f-a81c-40af9796518e.png)
+
+
