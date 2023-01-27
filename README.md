@@ -57,4 +57,5 @@ wrk -c 10000 -d 60 -t 4 http://localhost:2000
 
 -Result
 
-![image](https://user-images.githubusercontent.com/71545960/215147391-30225d36-c05c-424f-a81c-40af9796518e.png)
+![image](https://user-images.githubusercontent.com/71545960/215148138-c3193c67-bf1a-4769-a174-6a8945df3a60.png)
+
